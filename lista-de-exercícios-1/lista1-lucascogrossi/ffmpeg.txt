@@ -1,1 +1,0 @@
-ffmpeg -i img_aluno.jpg -vf "sacle=500:500" img_aluno.png
