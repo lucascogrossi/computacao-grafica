@@ -1,1 +1,0 @@
-ffmpeg -i img_aluno.jpg -vf "scale=500:500" img_aluno.png
